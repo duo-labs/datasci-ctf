@@ -1,6 +1,6 @@
 # Data Science Capture the Flag
 
-What is a data science capture the flag (CTF)? To learn more checkout this blog post [link].
+What is a data science capture the flag (CTF)? To learn more checkout [this blog post](https://duo.com/labs/research/gamifying-data-science-education).
 
 In short, the data science team at Duo Security created an internal training workshop to teach exploratory data analysis skills in a gamified way. In the CTF participants compete in teams to solve data analysis challenges.
 
